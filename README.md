@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Salom! Men 16 yoshli mobil dasturlashga qiziqadigan o‘quvchiman.<br>💙 Zamonaviy mobil ilovalar yaratishni va haqiqiy loyihalar qanday ishlashini o‘rganishni yaxshi ko‘raman.<br>🌱 Hozirda Flutter, Dart, Firebase va toza UI yaratish bo‘yicha bilimlarimni oshirmoqdaman.<br>🚀 Har kuni o‘zimni rivojlantirishga, yangi texnologiyalarni o‘rganishga intilaman.<br>👯 Oddiy Flutter loyihalari yoki UI g‘oyalari ustida hamkorlik qilishga tayyorman.<br>💬 Flutter, Dart, Firebase asoslari yoki mobil UI/UX haqida savollar bo‘lsa bemalol so‘rashingiz mumkin.<br>📍 O‘zbekiston
+👋 Salom! Men 16 yoshli mobil dasturlashga qiziqadigan o‘quvchiman.<br>💙 Zamonaviy mobil ilovalar yaratishni va haqiqiy loyihalar qanday ishlashini o‘rganishni yaxshi ko‘raman.<br>🌱 Hozirda Flutter, Dart, Firebase va toza UI yaratish bo‘yicha bilimlarimni oshirmoqdaman.<br>🚀 Har kuni o‘zimni rivojlantirishga, yangi texnologiyalarni o‘rganishga intilaman.<br>👯 Oddiy Flutter loyihalari yoki UI g‘oyalari ustida hamkorlik qilishga tayyorman.<br>💬 Flutter, Dart, Firebase asoslari yoki mobil UI/UX haqida savollar bo‘lsa bemalol so‘rashingiz mumkin.<br>📍 O‘zbekiston, Toshkent
 
 
 # 💻 Tech Stack:
